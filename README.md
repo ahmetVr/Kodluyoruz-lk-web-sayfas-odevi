@@ -1,1 +1,1 @@
-# Kodluyoruz-lk-web-sayfas-devi
+# Kodluyoruz-lk-web-sayfas-ödevi
